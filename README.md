@@ -1,7 +1,7 @@
 # Hi, I'm Tyler 
 
 ## Professional Synopsis
-As a Frontend Engineer, I bring specialized experience from my work on Spotify's Self Serve Ads Manager, leveraging React to create responsive and user-centric interfaces. My strong foundation in web development technologies, including JavaScript, React-Redux, HTML, and CSS, enables me to deliver engaging user experiences. My experience in developing features for the Ads Manager platform, has honed my skills in building scalable web applications that cater to the needs of diverse user bases.
+As a Frontend Engineer, I bring specialized experience from my work on Spotify's Self Serve Ads Manager, leveraging React to create responsive and user-centric interfaces. My strong foundation in web development technologies, including JavaScript, React-Redux, HTML, and CSS, enables me to deliver engaging user experiences. My experience in developing features for Spotify's Ads Manager platform, has honed my skills in building scalable web applications that cater to the needs of diverse user bases.
 
 ## Technical Arsenal
 - Core Technologies: Proficient in JavaScript, TypeScript, HTML5, and CSS
