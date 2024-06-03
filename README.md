@@ -12,7 +12,7 @@ As a Frontend Engineer, I bring specialized experience from my work on Spotify's
 My current focus is on advancing my expertise in frontend system design, diving into architectural patterns, and performance optimization to construct scalable and efficient web applications.
 
 ## Projects [see pinned]
-- Genre Generator: Led the development of an innovative music discovery application that utilizes user preferences to generate personalized playlists. This project showcases my ability to integrate APIs andcreate an engaging user interface with React.
+- Genre Generator: Led the development of an innovative music discovery application that utilizes user preferences to generate personalized playlists. This project showcases my ability to integrate APIs and create an engaging user interface with React.
 - CacheflowQL: Played a pivotal role in the development of a GraphQL caching tool, improving data retrieval speeds and bolstering application performance.
 
 ## Connect with Me
